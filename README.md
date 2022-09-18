@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simone</h1>
+<h1 align="center">Hiii 🤖, I'm Simone</h1>
 <h3 align="center">Sometimes I'm a Cybersecurity student from Milan.</h3>
 
 - 🌱 I’m currently learning **Docker, Frontend, Backend, Networking, Cryptography... literally too many things 😅**
@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **va.simone99@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
